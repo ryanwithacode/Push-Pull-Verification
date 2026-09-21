@@ -6,7 +6,7 @@ public class ChallengeScriptC : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        // I don't know what to change
     }
 
     // Update is called once per frame
