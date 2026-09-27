@@ -6,4 +6,5 @@ Push - Push is like an update to a file or repo
 
 Clone - Clone is just duplicating something
 
-Big edit from the browser
+Pull - Updating a change when you accessing a file from a new place
+(Big edit from the browser)
