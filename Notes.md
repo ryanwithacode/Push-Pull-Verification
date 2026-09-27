@@ -5,3 +5,5 @@ Commit - Commit to me is just submitting/confirmation of the addition of a new f
 Push - Push is like an update to a file or repo
 
 Clone - Clone is just duplicating something
+
+Big edit from the browser
